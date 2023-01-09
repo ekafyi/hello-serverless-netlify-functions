@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/ekafyi/hello-serverless-netlify-functions#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0"
+    "@11ty/eleventy": "^1.0.2"
   }
 }
